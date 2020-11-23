@@ -1,0 +1,8 @@
+total 24
+-rw-r--r-- 1 e3010139 tpxes  72 Nov 23 01:46 DemoFile1.txt
+-rw-r--r-- 1 e3010139 tpxes  76 Nov 23 01:50 DemoFile2.txt
+-rw-r--r-- 1 e3010139 tpxes  41 Nov 23 03:36 File3_remote.txt
+-rw-r--r-- 1 e3010139 tpxes 241 Nov 23 05:11 FileB4.txt
+-rw-r--r-- 1 e3010139 tpxes 302 Nov 23 05:15 FileB41.txt
+-rw-r--r-- 1 e3010139 tpxes 302 Nov 23 05:20 FileB51.txt
+-rw-r--r-- 1 e3010139 tpxes   0 Nov 23 06:02 FileB6.txt
